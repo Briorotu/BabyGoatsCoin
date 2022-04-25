@@ -12,7 +12,7 @@
     background-size: cover;
     height: 540px;
     position: relative;
-    z-index: -1;
+    
 }
 
 .jumbotron::after {
@@ -146,6 +146,7 @@
 .tombol {
     border-radius: 40px;
     text-transform: uppercase;
+    z-index:5;
 }
 
 /* RESPONSIVE */
